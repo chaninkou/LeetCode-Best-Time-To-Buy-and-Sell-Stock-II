@@ -2,6 +2,7 @@ package stock;
 
 public class FindTotalProfitFromStockFunction {
     public int maxProfit(int[] prices) {
+    	// 0 as default in case its like empty array or no solution
         int total = 0;
         
         // also o(n), going through the whole array, prices.length - 1 because i + 1
