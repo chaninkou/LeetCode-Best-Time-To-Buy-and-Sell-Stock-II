@@ -1,4 +1,4 @@
-package stock;
+package leetcode122;
 
 import java.util.Arrays;
 
